@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head></head>
-  <body>
-    <img
-      src = "![i1](https://github.com/user-attachments/assets/e53c2e01-509e-49e6-8dd8-9e39bfad903a)"
-    />
-    <h1>Prophet Orpheus</h1>
-    <p>Coder Dino will code for food</p>
-  </body>
-</html>
+#first-website
